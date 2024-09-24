@@ -1,9 +1,9 @@
-<img align='right' src="https://github-readme-stats.vercel.app/api?username=Harthuz&show_icons=true&title_color=000654&text_color=07118c&icon_color=02027a&bg_color=cfcffc&cache_seconds=2300" alt="ilustração do status do github">
+<img align='right' src="https://github-readme-stats.vercel.app/api?username=Harthuz&show_icons=true&title_color=a1bdff&text_color=07118c&icon_color=02027a&bg_color=cfcffc&cache_seconds=2300" alt="ilustração do status do github">
 
 ### Olá, meu nome é Hernandes! 👋
 <p>📚Estudando Análise e <br>Desenvolvimento de Sistemas | 2/5 </p>
 
-<img src="https://img.shields.io/static/v1?label=Overview&message=HERNANDES&color=cfcffc&style=for-the-badge&logo=GitHub" alt="Static GitHub">
+<img src="https://img.shields.io/static/v1?label=Overview&message=HERNANDES&color=a1bdff&style=for-the-badge&logo=GitHub" alt="Static GitHub">
 
 <br>
 <br>
