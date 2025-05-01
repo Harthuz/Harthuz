@@ -1,10 +1,10 @@
 Hi 👋 My name is Hernandes Arthur
 =================================
 
-Estudante de Análise e Desenvolvimento de Sistemas
+Studying Systems Analysis and Developing
 --------------------------------------------------
 
-Eu estou atualmente no 3° ano (de 5) do curso de Análise e Desenvolvimento de Sistemas na Etec Zona Leste.
+I'm currently in my third year (out of five) of the Systems Analysis and Development course at Etec Zona Leste.
 
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [hernandeshass2007@outlook.com](mailto:hernandeshass2007@outlook.com)
