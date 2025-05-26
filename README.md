@@ -41,5 +41,5 @@ I'm currently in my third year (out of five) of the Systems Analysis and Develop
   </a>
 </div>
 
-git config --global user.email "hernandeshass910@gmail.com"
-git config --global user.name "Hernandes"
+<p>git config --global user.email "hernandeshass910@gmail.com"</p>
+<p>git config --global user.name "Hernandes"</p>
