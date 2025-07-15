@@ -10,7 +10,7 @@ I'm currently in my third year (out of five) of the Systems Analysis and Develop
 * ✉️  You can contact me at [hernandeshass2007@outlook.com](mailto:hernandeshass2007@outlook.com)
 
 ### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,python,)](https://skillicons.dev)
+[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,python)](https://skillicons.dev)
 
 [![Frameworks](https://skillicons.dev/icons?i=react,vue,laravel,tailwind)](https://skillicons.dev)
 
@@ -18,7 +18,7 @@ I'm currently in my third year (out of five) of the Systems Analysis and Develop
 
 [![Databases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
 
-[![Tools](https://skillicons.dev/icons?i=vscode,git,linux)](https://skillicons.dev)
+[![Tools](https://skillicons.dev/icons?i=vscode,git,linux,docker)](https://skillicons.dev)
 
 [![Design](https://skillicons.dev/icons?i=photoshop,figma)](https://skillicons.dev)
 
