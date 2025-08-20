@@ -7,7 +7,7 @@ Studying Systems Analysis and Developing
 I'm currently in my third year (out of five) of the Systems Analysis and Development course at Etec Zona Leste.
 
 * 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [hernandeshass2007@outlook.com](mailto:hernandesarthur@proton.me)
+* ✉️  You can contact me at [hernandesarthur@proton.me](mailto:hernandesarthur@proton.me)
 
 ### Skills
 [![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,python)](https://skillicons.dev)
