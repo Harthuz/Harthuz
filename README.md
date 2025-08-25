@@ -40,6 +40,3 @@ I'm currently in my third year (out of five) of the Systems Analysis and Develop
     <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harthuz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak do GitHub de Harthuz" />
   </a>
 </div>
-
-<p>git config --global user.email "hernandeshass910@gmail.com"</p>
-<p>git config --global user.name "Hernandes"</p>
