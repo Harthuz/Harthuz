@@ -1,4 +1,4 @@
-Hi 👋 My name is Hernandes Arthur
+Meu nome é(is) Hernandes Arthur, from Brazil 🇧🇷
 =================================
 
 Studying Systems Analysis and Developing
