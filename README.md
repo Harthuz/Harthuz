@@ -9,19 +9,6 @@ I'm currently in my third year (out of five) of the Systems Analysis and Develop
 * 🌍  I'm based in São Paulo
 * ✉️  You can contact me at [hernandesarthur@proton.me](mailto:hernandesarthur@proton.me)
 
-### Skills
-[![My Skills](https://skillicons.dev/icons?i=java,kotlin,php,python)](https://skillicons.dev)
-
-[![Frameworks](https://skillicons.dev/icons?i=react,vue,laravel,tailwind)](https://skillicons.dev)
-
-[![Frontend](https://skillicons.dev/icons?i=html,css,js,bootstrap)](https://skillicons.dev)
-
-[![Databases](https://skillicons.dev/icons?i=mysql,firebase,mongodb)](https://skillicons.dev)
-
-[![Tools](https://skillicons.dev/icons?i=vscode,git,linux,docker)](https://skillicons.dev)
-
-[![Design](https://skillicons.dev/icons?i=photoshop,figma)](https://skillicons.dev)
-
 ### Socials
 
 [Dev.to](https://www.dev.to/harthuz) • [Hashnode](https://hashnode.com/@harthuz) • [LinkedIn](https://www.linkedin.com/in/Harthuz) • [Medium](http://www.medium.com/@harthuz) • [Stack Overflow](https://www.stackoverflow.com/users/25773384/hernandes-arthur)
