@@ -1,29 +1,36 @@
-Meu nome é(is) Hernandes Arthur, from Brazil 🇧🇷
-=================================
+# 👋 Olá, eu sou o Hernandes  
 
-Studying Systems Analysis and Developing
---------------------------------------------------
+🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
+💻 Buscando minha primeira oportunidade como **Desenvolvedor Júnior**  
+🌱 Atualmente estudando **Linux**, **JavaScript**, **Python** e **Desenvolvimento Web**  
+🚀 Interessado em **back-end**, **automação** e **infraestrutura Linux**  
 
-I'm currently in my third year (out of five) of the Systems Analysis and Development course at Etec Zona Leste.
+---
 
-* 🌍  I'm based in São Paulo
-* ✉️  You can contact me at [hernandesarthur@proton.me](mailto:hernandesarthur@proton.me)
+## 🧠 Tecnologias que estou aprendendo
 
-### Socials
+![Linux](https://img.shields.io/badge/Linux-000?style=for-the-badge&logo=linux&logoColor=white)
+![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
+![VSCode](https://img.shields.io/badge/VSCode-0078d7?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
-[Dev.to](https://www.dev.to/harthuz) • [Hashnode](https://hashnode.com/@harthuz) • [LinkedIn](https://www.linkedin.com/in/Harthuz) • [Medium](http://www.medium.com/@harthuz) • [Stack Overflow](https://www.stackoverflow.com/users/25773384/hernandes-arthur)
+---
 
+## 📊 Estatísticas do GitHub
 
-### GitHub Stats
+![Estatísticas do GitHub](https://github-readme-stats.vercel.app/api?username=hernandes&show_icons=true&theme=dark)
+![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=hernandes&layout=compact&theme=dark)
 
-<div style="display: flex; flex-wrap: wrap; justify-content: center; gap: 10px;">
-  <a href="https://github.com/Harthuz">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Harthuz&langs_count=10&layout=compact&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20Languages" alt="Principais Linguagens" />
-  </a>   
-  <a href="https://github.com/Harthuz">
-    <img src="https://github-readme-stats.vercel.app/api?username=Harthuz&show_icons=true&count_private=true&title_color=0891b2&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true" alt="Estatísticas do GitHub de Harthuz" />
-  </a>
-  <a href="https://github.com/Harthuz">
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harthuz&stroke=ffffff&background=1c1917&ring=0891b2&fire=0891b2&currStreakNum=ffffff&currStreakLabel=0891b2&sideNums=ffffff&sideLabels=ffffff&dates=ffffff&hide_border=true" alt="Streak do GitHub de Harthuz" />
-  </a>
-</div>
+---
+
+## 🌐 Onde me encontrar
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harthuz/)
+[![Email](https://img.shields.io/badge/Protonmail-7756ff?style=for-the-badge&logo=protonmail&logoColor=white)](mailto:hernandesarthur@proton.me)
+
+---
+
+> “A prática constante transforma curiosidade em competência.”
