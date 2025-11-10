@@ -2,7 +2,7 @@
 
 🎓 Estudante de **Análise e Desenvolvimento de Sistemas**  
 💻 Buscando minha primeira oportunidade como **Desenvolvedor Júnior**  
-🌱 Atualmente estudando **Linux**, **JavaScript**, **Python** e **Desenvolvimento Web**  
+🌱 Atualmente estudando **Linux**, **Integrações com IA**, **Python** e **Desenvolvimento Web**  
 🚀 Interessado em **back-end**, **automação** e **infraestrutura Linux**  
 
 ---
