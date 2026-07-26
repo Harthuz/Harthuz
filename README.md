@@ -1,94 +1,47 @@
-# 👋 Olá, eu sou o Hernandes Arthur
+<div align="center">
+  <h1>Olá, eu sou o Hernandes! 👋</h1>
+</div>
 
-💻 Desenvolvedor de Software com experiência em desenvolvimento **Full Stack**, automação de processos e integração com sistemas industriais.
+<div align="center">
+  <a href="https://linkedin.com/in/Harthuz" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+  </a>
 
-🎓 Tecnólogo em **Análise e Desenvolvimento de Sistemas** (FATEC Zona Leste)
-
-Atualmente estou aprofundando meus conhecimentos em **Python para Análise de Dados**, **React**, **JavaScript** e **Node.js**, com foco em desenvolvimento de aplicações escaláveis, processamento de dados e arquitetura back-end.
-
----
-
-## 🚀 Áreas de atuação
-
-* Desenvolvimento Full Stack
-* Desenvolvimento Back-end
-* APIs REST
-* Processamento e análise de dados com Python
-* Automação de processos
-* Infraestrutura com Docker
-* Banco de Dados SQL e NoSQL
-* Cloud Computing
+  <a href="mailto:hernandesarthur@proton.me">
+    <img src="https://img.shields.io/badge/ProtonMail-8B89CC?style=for-the-badge&logo=protonmail&logoColor=white" alt="Email" />
+  </a>
+</div>
 
 ---
 
-## 🛠️ Stack Técnica
+### 👨‍💻 Perfil Técnico
+Sou Desenvolvedor de Software com atuação na união entre aplicações web modernas e automação industrial. Tenho experiência prática construindo fluxos de ponta a ponta: do processamento assíncrono de dados no servidor até a construção de interfaces visuais dinâmicas. Sigo uma filosofia de desenvolvimento pautada na **lógica clara e fluxo determinístico**, focando em entregar soluções estáveis e simples de manter, sem excessos de camadas arquiteturais.
 
-### Linguagens
+### 🛠️ Tecnologias & Stacks de Trabalho
 
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge\&logo=python\&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge\&logo=javascript\&logoColor=F7DF1E)
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge\&logo=typescript\&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-68217A?style=for-the-badge\&logo=csharp\&logoColor=white)
+**Linguagens & Back-end** <br>
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi)
+![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
-### Front-end
+**Front-end & UI** <br>
+![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
+![TypeScript](https://img.shields.io/badge/typescript-%23007ACC.svg?style=for-the-badge&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB)
+![Next JS](https://img.shields.io/badge/Next-black?style=for-the-badge&logo=next.js&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge\&logo=react\&logoColor=61DAFB)
-![Next.js](https://img.shields.io/badge/Next.js-000?style=for-the-badge\&logo=nextdotjs\&logoColor=white)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge\&logo=html5\&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge\&logo=css3\&logoColor=white)
-
-### Back-end
-
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge\&logo=nodedotjs\&logoColor=white)
-![Celery](https://img.shields.io/badge/Celery-37814A?style=for-the-badge\&logo=celery\&logoColor=white)
-
-### Banco de Dados
-
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-336791?style=for-the-badge\&logo=postgresql\&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge\&logo=mysql\&logoColor=white)
-![Redis](https://img.shields.io/badge/Redis-DC382D?style=for-the-badge\&logo=redis\&logoColor=white)
-
-### DevOps & Cloud
-
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge\&logo=docker\&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge\&logo=git\&logoColor=white)
-![AWS](https://img.shields.io/badge/AWS-232F3E?style=for-the-badge\&logo=amazonaws\&logoColor=white)
-![Azure](https://img.shields.io/badge/Azure-0078D4?style=for-the-badge\&logo=microsoftazure\&logoColor=white)
+**Infraestrutura, Dados & Processamento** <br>
+![PostgreSQL](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white)
+![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white)
+![Docker](https://img.shields.io/badge/docker-%230db7ed.svg?style=for-the-badge&logo=docker&logoColor=white)
+![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
 ---
 
-## 📌 Experiência
+### 📈 Minhas Estatísticas
 
-Durante minha experiência em desenvolvimento de software para automação industrial, trabalhei com:
-
-* Desenvolvimento de aplicações utilizando **Python, React, Next.js e Node.js**
-* Processamento assíncrono com **Celery** e **Redis**
-* Desenvolvimento de APIs e integração entre sistemas
-* Manipulação e processamento de documentos técnicos industriais
-* Geração automatizada de planilhas Excel e arquivos L5X
-* Banco de dados PostgreSQL
-* Docker, Git, CI/CD e metodologias ágeis
-
----
-
-## 📈 Atualmente estudando
-
-* Python para Análise de Dados
-* Pandas
-* NumPy
-* React
-* JavaScript Moderno (ES6+)
-* Node.js
-* Arquitetura de Software
-* Boas práticas de APIs REST
-
----
-
-## 🌐 Contato
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge\&logo=linkedin\&logoColor=white)](https://www.linkedin.com/in/harthuz/)
-[![Email](https://img.shields.io/badge/Protonmail-7756ff?style=for-the-badge\&logo=protonmail\&logoColor=white)](mailto:hernandesarthur@proton.me)
-
----
-
-> "Código limpo, automação inteligente e aprendizado contínuo."
+<div align="center">
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harthuz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
+  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harthuz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Utilizadas" />
+</div>
