@@ -39,12 +39,3 @@ Sou Desenvolvedor de Software com atuação na união entre aplicações web mod
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 ![CI/CD](https://img.shields.io/badge/CI%2FCD-%232671E5.svg?style=for-the-badge&logo=githubactions&logoColor=white)
 ![Scrum](https://img.shields.io/badge/Scrum-005571?style=for-the-badge&logo=scrumalliance&logoColor=white)
-
----
-
-### 📈 Minhas Estatísticas
-
-<div align="center">
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api?username=Harthuz&show_icons=true&theme=dark&hide_border=true&bg_color=0D1117" alt="Estatísticas do GitHub" />
-  <img src="https://github-readme-stats-sigma-five.vercel.app/api/top-langs/?username=Harthuz&layout=compact&theme=dark&hide_border=true&bg_color=0D1117" alt="Linguagens Mais Utilizadas" />
-</div>
